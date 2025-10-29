@@ -50,6 +50,12 @@ header{
     
 }
 
+.button-profile{
+    display: flex;
+    align-items: center;
+    
+}
+
 .create-small{
     display: block;
       @media (min-width: 768px) {
@@ -321,7 +327,7 @@ form{
   background-color: gold;
   p{
     margin: 0;
-    color: white;
+    color: black;
     max-width: 20em;
   }
   h3{
