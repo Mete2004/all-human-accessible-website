@@ -20,6 +20,16 @@ Ik heb de Lighthouse Accessibility Test uitgevoerd om technische toegankelijkhei
 screenshot score uitslag Lighthouse asseccibility test: 
 <img width="1917" height="830" alt="ss lighthouse accessibility milledoni" src="https://github.com/user-attachments/assets/36956857-56bc-4ccf-a766-4f661dc9279f" />
 
+3 verbeteringen die ik heb doorgevoerd voor toegankelijkheid: 
+1. kleurcontrast gewijzigd in de footer: Ik had hiervoor een color:white p in de footer, die heb ik veranderd naar color:black, om de tekst beter leesbaar te maken voor mensen met slecht zicht
+2. Ik heb alt teksten toegevoegd aan de afbeeldingen op de website, zodat schermlezers kunnen vertellen wat er op een afbeelding te zien is.
+3. Ik heb de koppenstructuur goed ingesteld (h1, h2, h3), zodat schermlezers de pagina logisch kunnen voorlezen en navigeren.
+   
+
+<img width="637" height="156" alt="ss p footer-before" src="https://github.com/user-attachments/assets/3e0c8ec8-c3b0-4560-a82f-c7d2e11b0ef6" />
+
+<img width="1856" height="848" alt="ss contrast normal-sized text-3" src="https://github.com/user-attachments/assets/0432cc64-30ed-43a6-b91c-cdd805a51d7f" />
+
 
 ## Kenmerken
 
