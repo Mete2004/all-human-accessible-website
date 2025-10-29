@@ -12,9 +12,7 @@ De instructie van deze leertaak staat in [INSTRUCTIONS](https://github.com/fdnd-
   * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+Ik heb aan toegankelijkheid van de website gewerkt, waarbij ik toegankelijkheid heb getest en heb toegepast. Het doel is om de webiste teogankelijk te maken voor alle bezoekers van de website.
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
