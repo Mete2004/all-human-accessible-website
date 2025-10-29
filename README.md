@@ -28,7 +28,8 @@ screenshot score uitslag Lighthouse asseccibility test:
 
 <img width="637" height="156" alt="ss p footer-before" src="https://github.com/user-attachments/assets/3e0c8ec8-c3b0-4560-a82f-c7d2e11b0ef6" />
 
-<img width="1856" height="848" alt="ss contrast normal-sized text-3" src="https://github.com/user-attachments/assets/0432cc64-30ed-43a6-b91c-cdd805a51d7f" />
+<img width="721" height="215" alt="ss p footer-after" src="https://github.com/user-attachments/assets/1170643b-ad78-4b36-8063-40b58ff8aa3a" />
+
 
 
 ## Kenmerken
