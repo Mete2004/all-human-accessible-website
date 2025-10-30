@@ -178,6 +178,7 @@ main{
 .section-articles-titel{
     @media (min-width: 768px) {
             grid-column: 3 / 6;
+            margin-left: -90px;
           }
 }
 
@@ -277,12 +278,12 @@ main{
   bottom: 0;
   left: 0;
   width: 100%;
-  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
   height: 70px;
-  background-color: white;
+  background-color: none;
   display: grid;
   place-items: center;
   border-radius: 10px;
+
   input{
     height: 70%;
     width: 95%;
